@@ -1,2 +1,2 @@
 language = "python3"
-run = "python A003.py"
+run = " python ZeroJudge/A006.py"
